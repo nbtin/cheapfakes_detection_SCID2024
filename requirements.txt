@@ -1,4 +1,4 @@
--e ./fairseq/
+# -e ./fairseq/
 opencv-python
 timm
 ftfy==6.0.3
